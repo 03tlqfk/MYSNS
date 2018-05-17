@@ -1,0 +1,2 @@
+# MYSNS
+jsp sns test
